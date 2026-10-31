@@ -6,5 +6,5 @@
     "Debug",
     "Release"
   ],
-  "codeql": true
+  "codeql": false
 }
